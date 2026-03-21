@@ -2,30 +2,26 @@
 
 ![Terminal Preview](docs/terminal.png)
 
-A lightweight, manual email sender script designed for outreach campaigns. It allows you to select from multiple languages, input company details directly in the terminal, preview generated templates with your personalized signature, and send emails securely via Gmail SMTP.
+A fast, manual email outreach script. It generates personalized emails in 19 languages using your data and spintax, letting you preview everything in the terminal before sending via Gmail.
 
-## Features
-
-- **Multi-language Support**: 19 supported languages out of the box (English, Portuguese, Spanish, French, German, Japanese, Arabic, and more).
-- **Spintax Support**: Built-in support for `{option1|option2}` variations in templates to keep your emails unique.
-- **Dynamic Placeholders**: Automatically replaces company names, cities, ratings, reviews, and your personal signature in the templates.
-- **Manual Control**: Preview every single email subject and body before confirming whether to send or skip it.
+## ✨ Features
+- **19 Languages** & **Spintax** (`{Hi|Hello}`) built-in.
+- **Dynamic Data**: Auto-fills company info and your signature.
+- **Manual QA**: Review every email before pressing send.
 
 ---
 
 ## 🚀 Installation & Setup
 
-### 1. Prerequisites
-Make sure you have **Python 3.8+** installed on your system.
-You can download it from [python.org](https://www.python.org/).
+### 1. Requirements
+- Python 3.8+
 
-### 2. Clone or Download the Project
-Ensure all files (`s3nder.py`, `example.env`, `requirements.txt`, and the `languages/` folder) are in the same directory.
-
-### 3. Install Dependencies
-S3NDER only requires one external library to handle environment variables safely. Run the following command in your terminal:
+### 2. Get the Project
+Clone the repository and install the single dependency:
 
 ```bash
+git clone https://github.com/zckLab/email--s3nder.git
+cd email--s3nder
 pip install -r requirements.txt
 ```
 
