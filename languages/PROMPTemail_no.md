@@ -1,14 +1,12 @@
-Emne: {En idé til|Forslag til|Tanke om} {{company_name}}
+Emne: Idé for {{company_name}}
 
-{Hei|Hallo},
+Hei,
 
-jeg {kom over|fant} {{company_name}} da jeg søkte etter {{service_type}} i nærheten av {{city}} — vurderingen på {{rating}} med {{reviews}} anmeldelser {imponerte meg|fanget oppmerksomheten min}.
+Jeg så arbeidet dere gjør hos {{company_name}}, og kvaliteten på {deres sterke tilstedeværelse på nett|deres gode anmeldelser|deres flotte posisjonering} fanget min oppmerksomhet.
 
-Jeg tok en rask titt på nettsiden deres og ser en mulighet til å trekke {enda flere|betydelig flere} kunder med en {mer moderne|skarpere} nettside, spesielt på mobil.
+Jeg jobber med å hjelpe selskaper å skalere sin autoritet og inntekter gjennom strategiske justeringer som ofte går ubemerket hen i hverdagen. Jeg identifisererte et spesifikt punkt hos {{company_name}} hvor en liten endring i tilnærming kan ha en betydelig innvirkning på tallene deres.
 
-Jeg har {laget|satt sammen} en rask forhåndsvisning av hvordan det kunne se ut.
+Kunne du tenke deg å ta en titt på hva jeg har kartlagt? Hvis det ikke gir mening, ingen problem.
 
-{Vil dere ta en titt?|Kan jeg sende den over?|Interessert i å se?}
-
-{Med vennlig hilsen,|Hilsen,|Snakkes,}
+Beste hilsener,
 {Name} | {Occupation} | {WebSite/Portfolio}

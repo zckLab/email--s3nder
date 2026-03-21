@@ -1,14 +1,12 @@
-Oggetto: {Un'idea per|Suggerimento per|Ho pensato a} {{company_name}}
+Oggetto: Idea per {{company_name}}
 
-{Ciao|Buongiorno|Salve},
+Ciao,
 
-ho {trovato|scoperto} {{company_name}} cercando {{service_type}} nella zona di {{city}} — il punteggio di {{rating}} con {{reviews}} recensioni {mi ha colpito|ha attirato la mia attenzione}.
+Ho visto il lavoro che state facendo in {{company_name}} e la qualità {della vostra forte presenza online|delle vostre eccellenti recensioni|del vostro ottimo posizionamento} ha attirato la mia attenzione.
 
-Ho dato un'occhiata alla vostra presenza online e credo che potreste attirare {ancora più|molti più} clienti con un sito più {curato|moderno}, soprattutto da mobile.
+Lavoro aiutando le aziende a scalare la loro autorità e i loro ricavi attraverso aggiustamenti strategici che spesso passano inosservati nella vita di tutti i giorni. Ho identificato un punto specifico in {{company_name}} in cui un piccolo cambio di approccio potrebbe avere un impatto significativo sui vostri numeri.
 
-Ho {preparato|creato} un'anteprima veloce di come potrebbe apparire.
+Ti andrebbe di dare un'occhiata a ciò che ho mappato? Se non ha senso, nessun problema.
 
-{Vi andrebbe di vederla?|Posso inviarvela?|Sareste interessati a dare un'occhiata?}
-
-{Cordiali saluti,|A presto,|Un caro saluto,}
+Un saluto,
 {Name} | {Occupation} | {WebSite/Portfolio}

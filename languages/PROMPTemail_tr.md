@@ -1,14 +1,12 @@
-Konu: {{company_name}} {için bir fikir|hakkında öneri|için düşünce}
+Konu: {{company_name}} için Fikir
 
-{Merhaba|Selamlar},
+Merhaba,
 
-{{city}} civarında {{service_type}} ararken {{company_name}} ile {karşılaştım|sizi buldum} — {{rating}} puanınız ve {{reviews}} yorum {dikkatimi çekti|beni etkiledi}.
+{{company_name}} şirketinde yaptığınız işleri gördüm ve {güçlü çevrimiçi varlığınızın|mükemmel yorumlarınızın|harika konumlandırmanızın} kalitesi dikkatimi çekti.
 
-Online varlığınıza hızlıca baktım ve {daha modern|daha etkili} bir web sitesiyle, özellikle mobilde, {çok daha fazla|daha fazla} müşteri çekebileceğinizi düşünüyorum.
+Şirketlerin, günlük hayatta genellikle fark edilmeyen stratejik ayarlamalarla otoritelerini ve gelirlerini artırmalarına yardımcı oluyorum. {{company_name}} şirketinde, yaklaşımda küçük bir değişikliğin rakamlarınız üzerinde önemli bir etki yaratabileceği belirli bir nokta tespit ettim.
 
-Bunun nasıl görünebileceğine dair hızlı bir önizleme {hazırladım|oluşturdum}.
+Neler hazırladığıma bir göz atmak ister misiniz? Mantıklı gelmezse sorun değil.
 
-{Görmek ister misiniz?|Gönderebilir miyim?|İlgilenir misiniz?}
-
-{Saygılarımla,|İyi günler,|Görüşmek üzere,}
+Saygılarımla,
 {Name} | {Occupation} | {WebSite/Portfolio}

@@ -1,14 +1,12 @@
-Betreff: {Eine Idee für|Vorschlag für|Gedanke zu} {{company_name}}
+Betreff: Idee für {{company_name}}
 
-{Hallo|Guten Tag},
+Hallo,
 
-ich bin auf {{company_name}} {gestoßen|aufmerksam geworden}, als ich nach {{service_type}} in der Nähe von {{city}} gesucht habe — Ihre Bewertung von {{rating}} mit {{reviews}} Rezensionen {hat mich beeindruckt|ist mir aufgefallen}.
+ich habe die Arbeit gesehen, die Sie bei {{company_name}} leisten, und die Qualität {Ihrer starken Online-Präsenz|Ihrer hervorragenden Bewertungen|Ihrer tollen Positionierung} hat meine Aufmerksamkeit erregt.
 
-Ich habe mir Ihre Online-Präsenz kurz angesehen und sehe eine gute Chance, {noch mehr|deutlich mehr} Kunden zu gewinnen — mit einer {moderneren|direkteren} Website, vor allem mobil.
+Ich helfe Unternehmen dabei, ihre Autorität und Einnahmen durch strategische Anpassungen zu steigern, die im Alltag oft unbemerkt bleiben. Ich habe bei {{company_name}} einen bestimmten Punkt identifiziert, an dem eine kleine Änderung in der Herangehensweise einen erheblichen Einfluss auf Ihre Zahlen haben könnte.
 
-Ich habe {einen Entwurf|eine Vorschau} erstellt, wie das aussehen könnte.
+Hätten Sie Interesse, einen Blick auf das zu werfen, was ich ausgearbeitet habe? Wenn es keinen Sinn macht, kein Problem.
 
-{Hätten Sie Interesse, das zu sehen?|Darf ich es Ihnen zuschicken?|Soll ich es Ihnen einmal zeigen?}
-
-{Beste Grüße,|Herzliche Grüße,|Bis bald,}
+Beste Grüße,
 {Name} | {Occupation} | {WebSite/Portfolio}

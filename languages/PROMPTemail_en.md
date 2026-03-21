@@ -1,14 +1,12 @@
-Subject: {Quick idea for|Thought about|Suggestion for} {{company_name}}
+Subject: Idea for {{company_name}}
 
-{Hi|Hello|Hey},
+Hello,
 
-I {came across|found} {{company_name}} while searching for {{service_type}} near {{city}} — your {{rating}} score with {{reviews}} reviews {really stood out|caught my attention}.
+I saw the work you are doing at {{company_name}} and the quality of {your strong online presence|your excellent reviews|your great market positioning} caught my attention.
 
-I took a quick look at your online presence and think there's a solid opportunity to attract {even more|way more} customers with a {sharper|more polished} website, especially on mobile.
+I work helping companies scale their authority and revenue through strategic adjustments that often go unnoticed day-to-day. I identified a specific point at {{company_name}} where a small shift in approach could have a significant impact on your numbers.
 
-I've {put together|sketched out} a quick preview of what that could look like.
+Would you be open to taking a look at what I've mapped out? If it doesn't make sense, no problem.
 
-{Want me to send it over?|Interested in taking a look?|Mind if I share it with you?}
-
-{Best,|Cheers,|Talk soon,}
+Best,
 {Name} | {Occupation} | {WebSite/Portfolio}

@@ -1,14 +1,12 @@
-Temat: {Pomysł dla|Sugestia dla|Propozycja dla} {{company_name}}
+Temat: Pomysł dla {{company_name}}
 
-{Cześć|Dzień dobry},
+Cześć,
 
-{trafiłem na|znalazłem} {{company_name}} szukając {{service_type}} w okolicach {{city}} — ocena {{rating}} przy {{reviews}} opiniach {zrobiła na mnie wrażenie|zwróciła moją uwagę}.
+Widziałem pracę, którą wykonujecie w {{company_name}} i jakość {Waszej silnej obecności w sieci|Waszych doskonałych opinii|Waszej świetnej pozycji} zwróciła moją uwagę.
 
-Rzuciłem okiem na Waszą obecność online i widzę szansę na przyciągnięcie {jeszcze większej|znacznie większej} liczby klientów dzięki {nowocześniejszej|bardziej dopracowanej} stronie, zwłaszcza na telefonie.
+Pomagam firmom skalować ich autorytet i przychody poprzez strategiczne poprawki, które często pozostają niezauważone na co dzień. Zidentyfikowałem konkretny punkt w {{company_name}}, gdzie mała zmiana podejścia mogłaby przynieść znaczący wpływ na Wasze liczby.
 
-{Przygotowałem|Stworzyłem} szybki podgląd, jak to mogłoby wyglądać.
+Czy chciałbyś rzucić okiem na to, co naszkicowałem? Jeśli nie ma to sensu, żaden problem.
 
-{Chcielibyście zobaczyć?|Mogę przesłać?|Zainteresowani?}
-
-{Pozdrawiam,|Z pozdrowieniami,|Do usłyszenia,}
+Pozdrawiam,
 {Name} | {Occupation} | {WebSite/Portfolio}

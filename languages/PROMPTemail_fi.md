@@ -1,14 +1,12 @@
-Aihe: {Idea yritykselle|Ehdotus yritykselle|Ajatus liittyen} {{company_name}}
+Aihe: Idea yritykselle {{company_name}}
 
-{Hei|Moi|Terve},
+Hei,
 
-{löysin|törmäsin} yrityksen {{company_name}} etsiessäni {{service_type}} lähellä paikkakuntaa {{city}} — arvosana {{rating}} ja {{reviews}} arvostelua {teki vaikutuksen|herätti kiinnostukseni}.
+Näin työn, jota teette yrityksessä {{company_name}}, ja {vahvan verkkonäkyvyytenne|erinomaisten arvostelujenne|loistavan sijoittumisenne} laatu kiinnitti huomioni.
 
-Vilkaisin nopeasti verkkonäkyvyyttänne ja näen mahdollisuuden houkutella {entistä enemmän|huomattavasti enemmän} asiakkaita {nykyaikaisemmilla|terävimmillä} verkkosivuilla, erityisesti mobiilissa.
+Työskentelen auttaakseni yrityksiä kasvattamaan asiantuntijuuttaan ja tulovirtojaan strategisilla säädöillä, jotka usein jäävät huomaamatta arjessa. Tunnistin yrityksessänne {{company_name}} tietyn kohdan, jossa pieni muutos lähestymistavassa voisi vaikuttaa merkittävästi lukuihinne.
 
-{Tein|Luonnostelin} nopean esikatselun siitä, miltä se voisi näyttää.
+Olisitko avoin katsomaan, mitä olen kartoittanut? Jos ei sovi, ei ongelmaa.
 
-{Haluatteko vilkaista?|Voinko lähettää sen?|Kiinnostaako katsoa?}
-
-{Ystävällisin terveisin,|Terveisin,|Kuullaan pian,}
+Ystävällisin terveisin,
 {Name} | {Occupation} | {WebSite/Portfolio}

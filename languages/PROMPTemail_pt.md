@@ -1,14 +1,12 @@
-Assunto: {Uma ideia para|Sugestão rápida para|Pensei em algo para} {{company_name}}
+Assunto: Ideia para a {{company_name}}
 
-{Olá|Oi|Tudo bem?}
+Olá,
 
-{Encontrei|Vi} a {{company_name}} pesquisando {{service_type}} na região de {{city}} — a nota {{rating}} com {{reviews}} avaliações {chamou minha atenção|me impressionou}. Parabéns!
+Vi o trabalho que vocês estão fazendo na {{company_name}} e me chamou a atenção a qualidade {da sua presença online|das suas excelentes avaliações|do seu posicionamento de mercado}.
 
-Dei uma olhada rápida na presença online de vocês e percebi que daria pra {atrair ainda mais|conquistar mais} clientes com um site mais {moderno|elegante}, principalmente no celular.
+Trabalho ajudando empresas a escalarem sua autoridade e receita através de ajustes estratégicos que muitas vezes passam despercebidos no dia a dia. Identifiquei um ponto específico na {{company_name}} onde uma pequena mudança de abordagem poderia trazer um impacto significativo nos seus números.
 
-{Montei|Preparei} uma prévia rápida de como isso poderia ficar.
+Topa dar uma olhada no que eu mapeei? Se não fizer sentido, sem problemas.
 
-{Posso te enviar?|Quer dar uma olhada?|Faz sentido eu mandar pra vocês?}
-
-{Abraço,|Até mais,|No aguardo,}
+Abraço,
 {Name} | {Occupation} | {WebSite/Portfolio}

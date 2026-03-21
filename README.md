@@ -56,7 +56,7 @@ python s3nder.py
 The script will first ask for your personal details. These will be automatically inserted at the bottom of every template using the `{Name} | {Occupation} | {WebSite/Portfolio}` format.
 ```text
 Your Name: John Doe
-Your Occupation: Web Developer
+Your Occupation: Software Developer
 Your Portfolio/Website: johndoe.com
 ```
 
@@ -80,7 +80,7 @@ The script will ask how many companies you want to email. For each company, you 
 - **Company Email**
 - **Company Name**
 - **City**
-- **Service Type** (e.g., "Web Design", "Plumbing")
+- **Service Type** (e.g., "Software Automation", "Plumbing")
 - **Rating** (e.g., "4.8")
 - **Number of Reviews** (e.g., "120")
 
@@ -91,7 +91,7 @@ Before anything is sent, S3NDER will show you a preview of the specific email ge
   Subject: Quick idea for Tech Solutions Inc.
   ------------------------------
   Hello,
-  I found Tech Solutions Inc. while searching for Web Design...
+  I found Tech Solutions Inc. while searching for Custom Software...
   ------------------------------
 
   Send to info@techsolutions.com? (y/n): 
