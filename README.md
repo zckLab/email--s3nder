@@ -6,7 +6,7 @@ A fast, highly scalable manual email outreach script designed for niche-agnostic
 
 ## ✨ Features
 - **Dynamic A/B Testing**: Randomly rotates between Direct, Empathetic, Provocative, and Neutral strategy templates per company to find what converts best.
-- **19 Languages & Localized UI**: All templates and the terminal interface itself automatically translate to match your selected target language (e.g., `pt`, `en`, `es`, `ja`).
+- **19 Languages & Localized UI**: All templates and the terminal interface itself automatically translate to match your selected target language ( `pt`, `en`, `es`, `ja`, `ar`, `da`, `de`, `fi`, `fr`, `hi`, `it`, `ko`, `nl`, `no`, `pl`, `ru`, `sv`, `tr`, `zh`).
 - **Outcome-Focused Spintax**: Built-in variables like `{{Strong_Point}}` and `{{Value_Hook}}` to focus on revenue leverage and authority, not just selling tools. 
 - **Custom Mode**: Need to send a one-off custom email? Select `custom` as your language to type your email body directly in the terminal while still using dynamic variables!
 - **Manual QA**: Review every generated email in the terminal before pressing send.
