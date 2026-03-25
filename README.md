@@ -23,7 +23,7 @@ Clone the repository and install the requirements:
 
 ```bash
 git clone https://github.com/zckLab/email--s3nder.git
-cd email--s3nder
+cd email-s3nder
 pip install -python-dotenv
 ```
 *(Note: Uses standard libraries mostly, `python-dotenv` is recommended for managing secrets).*
